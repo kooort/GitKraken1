@@ -1,4 +1,5 @@
 $(document).ready(function () {
+    //to jest komentarz w lokalnym repozytorium
     console.log("Po załadowaniu strony");
     $("#informacja").click(function() {
     alert("GitKraken to przyjazny program!");
